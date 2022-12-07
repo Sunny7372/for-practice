@@ -1,0 +1,3 @@
+Q1 what is python
+Q2 what is database
+ gitwhat is init
